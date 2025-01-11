@@ -8,7 +8,7 @@ import asyncio
 from aiogram.types import FSInputFile, URLInputFile
 from aiogram.utils.media_group import MediaGroupBuilder
 
-API_TOKEN = '7315784544:AAHgKI20qoAz2zGiS6wbCsEHHPyAi46RYiM'
+API_TOKEN = 'API'
 
 logging.basicConfig(level=logging.INFO)
 bot_properties = DefaultBotProperties(parse_mode="HTML")
